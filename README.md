@@ -16,14 +16,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+<p align="center">You can find me on   <a href="https://www.instagram.com/akshayansinha/" width="1" height="2"><img src="https://1000logos.net/wp-content/uploads/2017/02/insta-logo.png" width="20" height="20" border="0"></a> and   <a href="https://www.linkedin.com/in/akshayan-sinha-b3825b181/" width="1" height="2"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="20" height="20" border="0"></a> </p>
 
-<!-- Icons -->
 
-[1.2]: https://1000logos.net/wp-content/uploads/2017/02/insta-logo.png
-[2.2]: https://image.flaticon.com/icons/png/512/61/61109.png
 
-<!-- Links to your social media accounts -->
-
-[1]: https://www.instagram.com/akshayansinha/
-[2]: https://www.linkedin.com/in/akshayan-sinha-b3825b181/
