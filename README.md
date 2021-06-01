@@ -12,7 +12,7 @@ I am Akshayan Sinha from India. Just a below average developer learning and tryi
 ### 🚉 Platforms
 <br>
 
-&nbsp;&nbsp;&nbsp; <img src="https://cdn.shopify.com/s/files/1/0056/5208/6854/files/Bolt_IoT_Final_Logo_-14_2247x.png?v=1538654879" width="150px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/800px-Arduino_Logo.svg.png" width="60px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://r00t4bl3.com/uploads/raspberrypi-logo-0901bc6c30a761c9bcb976321ffce70f.png" width="160px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://techzeero.com/wp-content/uploads/2019/07/nodemcu-logo.png" width="50px">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://appmasters.io/static/google-cloud-platform-logo-1548cb88200dbc04ca79a2447a0db447.png" width="50px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="http://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/f900526a853226c57142af9fed9c081d/internetofthings_red50.png" width="70px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://canopytools.com/wp-content/uploads/2020/06/azure-iot-hub-logo.png" width="190px">
+&nbsp;&nbsp;&nbsp; <img src="https://cdn.shopify.com/s/files/1/0056/5208/6854/files/Bolt_IoT_Final_Logo_-14_2247x.png?v=1538654879" width="150px"> &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/800px-Arduino_Logo.svg.png" width="60px"> &nbsp;&nbsp;&nbsp;  <img src="https://r00t4bl3.com/uploads/raspberrypi-logo-0901bc6c30a761c9bcb976321ffce70f.png" width="160px"> &nbsp;&nbsp;&nbsp;  <img src="https://techzeero.com/wp-content/uploads/2019/07/nodemcu-logo.png" width="50px">  &nbsp;&nbsp;&nbsp;  <img src="https://appmasters.io/static/google-cloud-platform-logo-1548cb88200dbc04ca79a2447a0db447.png" width="50px"> &nbsp;&nbsp;&nbsp; <img src="http://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/f900526a853226c57142af9fed9c081d/internetofthings_red50.png" width="70px"> &nbsp;&nbsp;&nbsp;  <img src="https://canopytools.com/wp-content/uploads/2020/06/azure-iot-hub-logo.png" width="190px">
 
 
 ---
@@ -48,7 +48,7 @@ I am Akshayan Sinha from India. Just a below average developer learning and tryi
 
 <!-- Actual text -->
 
-<p align="center">You can find me on   <a href="https://www.instagram.com/akshayansinha/" width="1" height="2"><img src="https://1000logos.net/wp-content/uploads/2017/02/insta-logo.png" width="20" height="20" border="0"></a> and   <a href="https://www.linkedin.com/in/akshayan-sinha-b3825b181/" width="1" height="2"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="20" height="20" border="0"></a> </p>
+<p align="center">You can find me on   <a href="https://www.instagram.com/akshayansinha/" width="10" height="2"><img src="https://1000logos.net/wp-content/uploads/2017/02/insta-logo.png" width="20" height="20" border="0"></a> and   <a href="https://www.linkedin.com/in/akshayan-sinha-b3825b181/" width="10" height="2"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="20" height="20" border="0"></a> </p>
 
 
 
