@@ -25,6 +25,7 @@ I am Akshayan Sinha from India. Just a below average developer learning and tryi
 <img  src="https://github-readme-stats.vercel.app/api?username=hippyaki&show_icons=true&theme=dracula"/>
   </a>
   </p>
+
 ---
 
 ### 🧰 Technology And Tools
@@ -33,6 +34,7 @@ I am Akshayan Sinha from India. Just a below average developer learning and tryi
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)                                               ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)                                                     ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ---
+
 ### 🔡 My Top Languages
 <br>
 <p align="center" >  
@@ -40,7 +42,9 @@ I am Akshayan Sinha from India. Just a below average developer learning and tryi
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hippyaki&show_icons=true&theme=dracula"/>
   </a>
   </p>
+
 ---
+
 ### 👨‍💻 Top Repositories
 <br>
 
