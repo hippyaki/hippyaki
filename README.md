@@ -1,4 +1,4 @@
-# ![aki header](https://github.com/hippyaki/hippyaki/raw/main/icon/finalChannelArtAkiEdits-2v2.png)
+# ![aki header](https://github.com/hippyaki/hippyaki/raw/main/icon/trippy-liquid-3840×2160.jpg)
 
 
 # Hello, peers! <img src="https://github.com/hippyaki/hippyaki/raw/main/icon/hello.gif" width="35px"> 
