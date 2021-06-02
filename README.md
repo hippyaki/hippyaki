@@ -20,20 +20,26 @@ I am Akshayan Sinha from India. Just a below average developer learning and tryi
 ### 📈 Github Stats
 <br>
 
-[![Aki's GitHub stats](https://github-readme-stats.vercel.app/api?username=hippyaki&show_icons=true&theme=dracula)](https://github.com/hippyaki/github-readme-stats)  
-
+<p align="center" >  
+  <a href="https://github.com/hippyaki/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=hippyaki&show_icons=true&theme=dracula"/>
+  </a>
+  </p>
 ---
 
 ### 🧰 Technology And Tools
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)                                                           ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)                                                         ![](https://img.shields.io/badge/Editor-Subllime-informational?style=flat&logo=appveyo&logoColor=white&color=2bbc8a)                                                 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)                                               ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)                                                     ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ---
 ### 🔡 My Top Languages
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hippyaki&show_icons=true&theme=dracula)](https://github.com/hippyaki/github-readme-stats)
-
+<p align="center" >  
+  <a href="https://github.com/hippyaki/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hippyaki&show_icons=true&theme=dracula"/>
+  </a>
+  </p>
 ---
 ### 👨‍💻 Top Repositories
 <br>
