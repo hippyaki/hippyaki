@@ -1,4 +1,4 @@
-# ![aki header](https://github.com/hippyaki/hippyaki/raw/main/icon/Github_BG(1).gif)
+# ![aki header](https://github.com/hippyaki/hippyaki/raw/main/icon/hippyaki_github_BG.gif)
 
 
 # Hello, peers! <img src="https://github.com/hippyaki/hippyaki/raw/main/icon/hello.gif" width="35px"> 
