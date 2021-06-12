@@ -39,7 +39,7 @@ I am Akshayan Sinha from India <img src="https://github.com/hippyaki/hippyaki/ra
 <br>
 <p align="center" >  
   <a href="https://github.com/hippyaki/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hippyaki&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hippyaki&show_icons=true&theme=dracula"/>
   </a>
   </p>
 
