@@ -50,7 +50,7 @@ I am Akshayan Sinha from India <img src="https://github.com/hippyaki/hippyaki/ra
   <a href="https://github.com/hippyaki/MailAlert_Bolt-IoT"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=MailAlert_Bolt-IoT&show_owner=true&show_icons=true&theme=radical"/> </a>
   <a href="https://github.com/hippyaki/4WD-Car-Arduino"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=4WD-Car-Arduino&show_owner=true&show_icons=true&theme=radical"/> </a>
   <a href="https://github.com/hippyaki/FaceMaskDetector"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=FaceMaskDetector&show_icons=true&theme=radical"/> </a>
-  <a href="https://github.com/hippyaki/AZ-Touch-Pi0-Weather"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=AZ-Touch-Pi0-Weather&show_icons=true&theme=radical"/> </a>
+  <a href="https://github.com/hippyaki/GilfoyleCryptoAlert"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repoGilfoyleCryptoAlert&show_icons=true&theme=radical"/> </a>
   
 </p>
 
