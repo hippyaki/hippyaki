@@ -22,9 +22,8 @@ I am Akshayan Sinha from India <img src="https://github.com/hippyaki/hippyaki/ra
 
 <p align="center" >  
   <a href="https://github.com/hippyaki/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=hippyaki&show_icons=true&theme=dracula"/>
-  </a>
-  </p>
+<img  src="https://github-readme-stats.vercel.app/api?username=hippyaki&show_icons=true&theme=dracula"/> </a>
+</p>
 
 ---
 
@@ -32,7 +31,7 @@ I am Akshayan Sinha from India <img src="https://github.com/hippyaki/hippyaki/ra
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=e5d549)                                                           ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=e5d549)                                                         ![](https://img.shields.io/badge/Editor-Subllime-informational?style=flat&logo=appveyo&logoColor=white&color=1768ac)                                                 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2541b2)                                                   ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlinlogoColor=white&color=2541b2)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2541b2)                                               ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=39a6a3)                                                     ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=deedf0)                                                       [![Gitter](https://badges.gitter.im/IoT-Dev-Bolt-IoT/community.svg)](https://gitter.im/IoT-Dev-Bolt-IoT/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)             [![Netlify Status](https://api.netlify.com/api/v1/badges/afd87007-58fd-46eb-8b80-3a2d171cd79e/deploy-status)](https://app.netlify.com/sites/akshayansinha/deploys)
-
+![](https://komarev.com/ghpvc/?username=hippyaki&style=plastic)
 ---
 
 ### 🔡 My Top Languages
@@ -47,13 +46,15 @@ I am Akshayan Sinha from India <img src="https://github.com/hippyaki/hippyaki/ra
 
 ### 👨‍💻 Top Repositories
 <br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=MailAlert_Bolt-IoT&show_owner=true&show_icons=true&theme=radical)](https://github.com/hippyaki/MailAlert_Bolt-IoT)                                  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=4WD-Car-Arduino&show_owner=true&show_icons=true&theme=radical)](https://github.com/hippyaki/4WD-Car-Arduino)              [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=FaceMaskDetector&show_icons=true&theme=radical)](https://github.com/hippyaki/FaceMaskDetector)                               [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=AZ-Touch-Pi0-Weather&show_icons=true&theme=radical)](https://github.com/hippyaki/AZ-Touch-Pi0-Weather)
+<p align ="center">  
+  <a href="https://github.com/hippyaki/MailAlert_Bolt-IoT"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=MailAlert_Bolt-IoT&show_owner=true&show_icons=true&theme=radical"/> </a>
+  <a href="https://github.com/hippyaki/4WD-Car-Arduino"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=4WD-Car-Arduino&show_owner=true&show_icons=true&theme=radical"/> </a>
+  <a href="https://github.com/hippyaki/FaceMaskDetector"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=FaceMaskDetector&show_icons=true&theme=radical"/> </a>
+  <a href="https://github.com/hippyaki/AZ-Touch-Pi0-Weather"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=AZ-Touch-Pi0-Weather&show_icons=true&theme=radical"/> </a>
+  
+</p>
 
 ---
-
-
-
 
 
 <!-- Actual text -->
