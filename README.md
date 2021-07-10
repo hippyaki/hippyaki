@@ -5,7 +5,7 @@
 
 
 
-I am Akshayan Sinha from India <img src="https://github.com/hippyaki/hippyaki/raw/main/icon/indian_flagg.gif" width="20px">  Just an average developer, learning and trying to improve everyday. I create IoT projects which includes robotics and most of it to connect our daily activities and help in making them control using your smartphone.<br><br> I am well versed in Python, C++, and love working in a linux environment. My goal is to have my hands on every field and then choose what works best for me. My keen interest is on Internet Of Things. I connect devices, modules, circuits to the cloud. So that you can sit at home and control your device in the other side of the world. <br><br> Click on the Profile Art to visit my Website !!
+I am Akshayan Sinha from India <img src="https://github.com/hippyaki/hippyaki/raw/main/icon/indian_flagg.gif" width="20px">  Just an average developer, learning and trying to improve everyday. I create IoT projects which includes robotics and most of it to connect our daily activities and help in making them control using your smartphone.<br><br> I am well versed in Python, C++, and love working in a linux environment. My goal is to have my hands on every field and then choose what works best for me. My keen interest is on Internet Of Things. I connect devices, modules, circuits to the cloud. So that you can sit at home and control your device from the other side of the world. <br><br> Click on the Profile Art to visit my Website !!
 
 ---
 
