@@ -8,9 +8,9 @@
 I am Akshayan Sinha from India <img src="https://github.com/hippyaki/hippyaki/raw/main/icon/indian_flagg.gif" width="20px">  Just an average developer, learning and trying to improve everyday. I create IoT projects which includes robotics and most of it to connect our daily activities and help in making them control using your smartphone.<br><br> I am well versed in Python, C++, and love working in a linux environment. My goal is to have my hands on every field and then choose what works best for me. My keen interest is on Internet Of Things. I connect devices, modules, circuits to the cloud. So that you can sit at home and control your device from the other side of the world. <br><br> Click on the Profile Art to visit my Website !!
 <br>
 
-<!-- Actual text -->
+<!-- Find me On -->
 
-<p align="center">You can find me on   <a href="https://www.instagram.com/akshayansinha/" width="10" height="2"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" width="20" height="20" border="0"></a> and   <a href="https://www.linkedin.com/in/akshayan-sinha-b3825b181/" width="10" height="2"><img src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" width="20" height="20" border="0"></a> </p>
+<p align="center">You can find me on   <a href="https://www.instagram.com/akshayansinha/" width="10" height="2"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" width="20" height="20" border="0"></a> and   <a href="https://www.linkedin.com/in/akshayansinha/" width="10" height="2"><img src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" width="20" height="20" border="0"></a> </p>
 
 
 ---
