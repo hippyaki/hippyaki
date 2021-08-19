@@ -26,18 +26,43 @@ I am Akshayan Sinha from India <img src="https://github.com/hippyaki/hippyaki/ra
 ### 📈 Github Stats
 <br>
 
-<p align="center" >  
+<p align="center">  
   <a href="https://github.com/hippyaki/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=hippyaki&show_icons=true&theme=dracula"/> </a>
 </p>
 
+
 ---
 
-### 🧰 Technology And Tools
+### 🧰 Language And Tools
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+
+<br>
+
+<a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+
+<br>
+
+
+<!---
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=e5d549)                                                           ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=e5d549)                                                         ![](https://img.shields.io/badge/Editor-Subllime-informational?style=flat&logo=appveyo&logoColor=white&color=1768ac)                                                 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2541b2)                                                   ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlinlogoColor=white&color=2541b2)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2541b2)                                               ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=39a6a3)                                                     ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=deedf0)                                                       [![Gitter](https://badges.gitter.im/IoT-Dev-Bolt-IoT/community.svg)](https://gitter.im/IoT-Dev-Bolt-IoT/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)             [![Netlify Status](https://api.netlify.com/api/v1/badges/afd87007-58fd-46eb-8b80-3a2d171cd79e/deploy-status)](https://app.netlify.com/sites/akshayansinha/deploys)
 ![](https://komarev.com/ghpvc/?username=hippyaki&style=plastic)
+--->
 ---
 
 ### 🔡 My Top Languages
@@ -62,6 +87,18 @@ I am Akshayan Sinha from India <img src="https://github.com/hippyaki/hippyaki/ra
 
 ---
 
+### 📛 Current Streak
+
+<p align="center">
+  <img width="48%" height="105%" src="https://github-readme-streak-stats.herokuapp.com/?user=hippyaki&theme=dracula" />
+</p>
+
+---
+
+### 📈 TimeLine
+
+![Aki's github activity graph](https://activity-graph.herokuapp.com/graph?username=hippyaki&theme=xcode)
 
 
+---
 
