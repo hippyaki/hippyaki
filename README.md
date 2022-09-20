@@ -1,16 +1,18 @@
 # [![aki header](https://github.com/hippyaki/hippyaki/raw/main/icon/hippyaki_github_BG.gif)](https://akshayansinha.netlify.app)
 
 
-# Hello, peers! 
+# Hola amigo!
+
+### To whom it may concern,
 
 
 
-I am Akshayan Sinha from India. Just an average developer, learning and trying to improve everyday. I create IoT projects which includes robotics and most of it to connect our daily activities and help in making them control using your smartphone.<br><br> I am well versed in Python, C++, and love working in a linux environment. My goal is to have my hands on every field and then choose what works best for me. My keen interest is on Internet Of Things. I connect devices, modules, circuits to the cloud. So that you can sit at home and control your device from the other side of the world. <br><br> Click on the Profile Art to visit my Website !!
+I am <b>Akshayan Sinha</b> from India. Currently a Trainee at <b>LG Electronics</b>. Apart from my Day job, I'm an average developer, who is learning and trying to improve everyday. I create <b>IoT, Web, Network, Embedded, Robotics projects </b> which connect our daily activities and help in making it easier for you to access information and control things remotely.<br><br> I am well versed in C/C++, Embedded C, Python, Micropython, Java, Javascript, Lua, etc and love working in a linux environment (sometimes). My goal is to have my hands on every field and then choose what works best for me. My keen interest is on Internet Of Things and Automation. Willing to make sure India is at a position to make their own Products. <b>Designed and manufactured</b> in the home country, because we got the Manpower as well as Skills to do so. Join me on this Journey and <b>connect with me</b> to work on projects, and let us build a team of our own to Master at our skills with freedom. <br><br> Click on the Profile Art to visit my Website !!
 <br>
 
 <!-- Find me On -->
 
-<p align="center">You can find me on   <a href="https://www.instagram.com/akshayansinha/" width="10" height="2"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" width="20" height="20" border="0"></a> and   <a href="https://www.linkedin.com/in/akshayansinha/" width="10" height="2"><img src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" width="20" height="20" border="0"></a> </p>
+<p align="center">You can find me on   <a href="https://www.instagram.com/akshayansinha/" width="10" height="2"><img src="https://www.nicepng.com/png/full/1-12860_instagram-png.png" width="20" height="20" border="0"></a> and   <a href="https://www.linkedin.com/in/akshayansinha/" width="10" height="2"><img src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" width="20" height="20" border="0"></a> </p>
 
 
 ---
@@ -27,7 +29,7 @@ I am Akshayan Sinha from India. Just an average developer, learning and trying t
 ### 🚉 Platforms
 <br>
 <div align="center">
-&nbsp;&nbsp; <img src="https://i.ibb.co/Yt9PVBK/2018-06-12-T08-17-33-417-Z-Bolt-Io-T-Green-Gray-vertical.png" width="45px">  &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/800px-Arduino_Logo.svg.png" width="60px"> &nbsp; &nbsp;&nbsp;<img src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png" width="40px"> &nbsp;&nbsp;&nbsp; <img src="https://cdn.freebiesupply.com/logos/large/2x/raspberry-pi-logo-svg-vector.svg" width="40px"> &nbsp;&nbsp; &nbsp; <img src="https://techzeero.com/wp-content/uploads/2019/07/nodemcu-logo.png" width="50px"> &nbsp; &nbsp;&nbsp;  <img src="https://appmasters.io/static/google-cloud-platform-logo-1548cb88200dbc04ca79a2447a0db447.png" width="50px"> &nbsp; &nbsp; &nbsp;  <img src="https://developer.microej.com/wp-content/uploads/2020/03/logo_techno_aws-iot-core-s2.png" width="50px">
+&nbsp;&nbsp; <img src="https://i.ibb.co/Yt9PVBK/2018-06-12-T08-17-33-417-Z-Bolt-Io-T-Green-Gray-vertical.png" width="45px">  &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/800px-Arduino_Logo.svg.png" width="60px"> &nbsp; &nbsp;&nbsp;<img src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png" width="40px"> &nbsp;&nbsp;&nbsp; <img src="https://cdn.freebiesupply.com/logos/large/2x/raspberry-pi-logo-svg-vector.svg" width="40px"> &nbsp;&nbsp; &nbsp; <img src="https://techzeero.com/wp-content/uploads/2019/07/nodemcu-logo.png" width="50px"> &nbsp; &nbsp;<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/azure-icon.png" width="55px"> &nbsp; &nbsp; <img src="https://cdn.freebiesupply.com/logos/large/2x/st-microelectronics-1-logo-png-transparent.png" width="55px">  <img src="https://developer.microej.com/wp-content/uploads/2020/03/logo_techno_aws-iot-core-s2.png" width="50px"><img src="https://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Texas-Instruments-Brands-Logo-PNG-Transparent.png" width="175px">
 </div>
 
 ---
@@ -77,7 +79,7 @@ I am Akshayan Sinha from India. Just an average developer, learning and trying t
   </a>
   </p>
 
----
+<!---
 
 ### 👨‍💻 Top Repositories
 <br>
@@ -87,7 +89,7 @@ I am Akshayan Sinha from India. Just an average developer, learning and trying t
   <a href="https://github.com/hippyaki/FaceMaskDetector"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=FaceMaskDetector&show_icons=true&theme=radical"/> </a>
   <a href="https://github.com/hippyaki/SITCOM-popular-tech"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=SITCOM-popular-tech&show_icons=true&theme=radical"/> </a>
   
-</p>
+</p>--->
 
 ---
 
