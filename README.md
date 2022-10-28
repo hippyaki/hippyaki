@@ -12,7 +12,7 @@ I am <b>Akshayan Sinha</b> from India. Currently a Trainee at <b>LG Electronics<
 
 <!-- Find me On -->
 
-<p align="center">You can find me on   <a href="https://www.instagram.com/akshayansinha/" width="10" height="2"><img src="https://www.nicepng.com/png/full/1-12860_instagram-png.png" width="20" height="20" border="0"></a> and   <a href="https://www.linkedin.com/in/akshayansinha/" width="10" height="2"><img src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" width="20" height="20" border="0"></a> </p>
+<p align="center">You can find me on   <a href="https://www.instagram.com/akshayansinha/" width="10" height="2"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="22" height="22" border="0"></a> and   <a href="https://www.linkedin.com/in/akshayansinha/" width="10" height="2"><img src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" width="20" height="20" border="0"></a> </p>
 
 
 ---
