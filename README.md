@@ -7,7 +7,7 @@
 
 
 
-I am <b>Akshayan Sinha</b> from India. Currently a Trainee at <b>LG Electronics</b>. Apart from my Day job, I'm an average developer, who is learning and trying to improve everyday. I create <b>IoT, Web, Network, Embedded, Robotics projects </b> which connect our daily activities and help in making it easier for you to access information and control things remotely.<br><br> I am well versed in C/C++, Embedded C, Python, Micropython, Java, Javascript, Lua, etc and love working in a linux environment (sometimes). My goal is to have my hands on every field and then choose what works best for me. My keen interest is on Internet Of Things and Automation. Join me on this Journey and <b>connect with me</b> to work on projects, or discuss tech stuff. <br><br> Click on the Profile Art to visit my Website !!
+I am <b>Akshayan Sinha</b> from India. Currently a Software Engineer - Robotics at <b>STAQO</b>. Apart from my Day job, I'm an average developer, who is learning and trying to improve everyday. I create <b>IoT, Web, Network, Embedded, Robotics projects </b> which connect our daily activities and help in making it easier for you to access information and control things remotely. And bother you only in critical situations ;).<br><br> I am thora thora versed in C/C++, Embedded C, Python, Micropython, Javascript, bash and currently day job in ubuntu linux B). My goal is to have my hands on every field and then choose what works best for me. My keen interest is on Internet Of Things and Robotics. Join me on this Journey and <b>connect with me</b> to work on projects, or discuss tech stuff. I'd love to learn from you too ;) <br><br> Click on the Profile Art to visit my Website !!
 <br>
 
 <!-- Find me On -->
