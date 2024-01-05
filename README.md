@@ -3,7 +3,7 @@
 
 # Namaste🙏
 
-I am <b>Akshayan Sinha</b> from India. I am working as a Robotics Software Engineer at a company.<br><br> I am thora thora versed in C/C++, Embedded C, Python, Micropython, Javascript, and currently day job in ubuntu linux B). Currently focusing on Robotic Fundamentals, while implementing on an actual 4 wheel diff robot. Join me on this Journey and <b>connect with me</b> to work on projects, or discuss tech stuff. I'd love to learn from you too ;)
+I am <b>Akshayan Sinha</b> from India. I am working as a Robotics Software Engineer at a company.<br><br> I am thora thora versed in C/C++, Embedded C, Python and Javascript. Should I mention about ubuntu as well? Ahh. Currently focusing on Robotic Fundamentals, while implementing on an actual 4 wheel diff robot. Join me on this Journey and <b>connect with me</b> to work on projects, or discuss tech stuff. I'd love to learn from you too ;)
 <br>
 
 <!-- Find me On -->
